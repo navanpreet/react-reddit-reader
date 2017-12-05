@@ -1,0 +1,13 @@
+.toggle {
+	display: inline-block;
+	max-width: 10%;
+	float: left;
+}
+
+.Post-div {
+	border: 1px dotted black;
+	display: inline-block;
+	margin-bottom: 10px;
+	max-width: 1000px;
+	min-height: 75px;
+}

@@ -1,0 +1,16 @@
+.input-query {
+	margin-left: 1%;
+	float: left;
+}
+
+.buttons {
+	align-self: flex-end;
+	margin-right: 0;
+	margin-left: 1%; 
+	height: 50px;
+}
+
+.search-button {
+	float: left;
+	margin-left: 1%; 
+}
